@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pl.com.multilife.stg",
+    "sha256_cert_fingerprints":
+    ["55:42:98:77:91:B7:74:32:85:82:D1:83:DB:E4:DF:F2:EE:29:1C:F1:77:BB:95:50:2C:89:F9:47:BB:8D:20:46"]
+  }
+}]
