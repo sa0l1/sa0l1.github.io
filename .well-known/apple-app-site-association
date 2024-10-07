@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIds": [
+                    "CCTV8RR3R6.pl.com.multilife.dev",
+                    "CCTV8RR3R6.pl.com.multilife"
+                ],
+                "paths": [
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
